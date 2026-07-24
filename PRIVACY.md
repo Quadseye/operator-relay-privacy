@@ -54,7 +54,7 @@ The app does not create a separate Operator Relay cloud account. Removing the ap
 ## Contact
 
 - Project: private GitHub repo [Quadseye/operator-relay](https://github.com/Quadseye/operator-relay)
-- For Play Store: publish a **public** copy of this policy (Gist, public privacy-only repo, or your domain) and keep it in sync with this file.
+- Public privacy (Play): https://github.com/Quadseye/operator-relay-privacy/blob/main/PRIVACY.md
 
 ## Changes
 
